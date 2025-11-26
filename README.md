@@ -1,79 +1,89 @@
-📊 Overview
+# 📊 Sales Performance Pattern Analysis Dashboard (Excel)
 
-This project analyzes sales performance data across multiple years using Excel dashboards, pivot tables, and charts. The workbook contains structured datasets, KPI summaries, pivot analyses, and multiple visualization sheets (bar chart, donut chart, pie chart, KPI overview, etc.) to help uncover trends, patterns, and business insights.
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
+![Excel](https://img.shields.io/badge/Tools-Microsoft%20Excel-blue)
+![Data](https://img.shields.io/badge/Data-Sales%20Analytics-orange)
 
-📁 Dataset Structure
+---
 
-The Excel file includes the following key sheets:
+## 📘 Project Overview
+This repository contains an **Excel-based Sales Performance Dashboard** designed to analyze year-over-year sales patterns, KPIs, and business performance metrics.  
+The dashboard uses **pivot tables, charts, and dynamic visualizations** to help identify trends and support data-driven decision-making.
 
-Data – Raw sales dataset (structured for analysis).
+---
 
-Other Data – Additional or supplementary sales-related information.
+## 📁 File Structure
 
-PIVOT SALES – Pivot tables summarizing sales metrics.
+| Sheet Name | Description |
+|-----------|-------------|
+| **DASHBOARD** | Main interactive sales dashboard with all visuals. |
+| **Data** | Primary raw sales dataset used for analysis. |
+| **Other Data** | Supplementary dataset containing additional info. |
+| **PIVOT SALES** | Pivot tables summarizing sales performance metrics. |
+| **GRAND TOTAL** | Year-wise aggregated totals (Revenue & Units). |
+| **SALES (GEO)** | Geographic distribution of sales. |
+| **BAR CHART** | Bar chart visualizations. |
+| **PIE CHART** | Pie chart visualization. |
+| **DONUT CHART** | Donut chart visualization. |
+| **KPI** | Key Performance Indicators section. |
 
-GRAND TOTAL – Year-wise aggregated totals.
+---
 
-Chart Sheets
+## 📈 Key Insights
 
-BAR CHART
+### **📌 Sales Summary (From GRAND TOTAL Sheet)**
 
-PIE CHART
+| Year | Boxes Sold | Total Amount |
+|------|------------|--------------|
+| **2021** | **1,094,539** | **18,631,494** |
+| **2022** | **250,035** | **3,070,228** |
+| **Grand Total** | **1,344,574** | **21,701,722** |
 
-DONUT CHART
+### 🔍 Observations
+- **2021 contributed over 80% of total revenue**, marking it as the strongest year.
+- Sales in **2022 dropped significantly** in both revenue and units.
+- Indicates potential impacts from:
+  - Market demand shifts  
+  - Distribution or supply chain issues  
+  - Seasonal fluctuations  
+  - Strategic changes  
 
-KPI – Key performance indicator summary.
+---
 
-DASHBOARD – The consolidated interactive Excel dashboard.
+## 🎯 Purpose of the Dashboard
+The dashboard is built to:
 
-📈 Key Findings from the Data
+- Visualize sales trends over multiple years  
+- Analyze geographic sales distributions  
+- Provide actionable KPIs  
+- Discover performance patterns  
+- Support business strategy through data visualization  
 
-Based on the GRAND TOTAL sheet:
+---
 
-Year	Total Boxes Sold	Total Amount
-2021	1,094,539	18,631,494
-2022	250,035	3,070,228
-Overall Total	1,344,574	21,701,722
-🔍 Insights
+## 🛠 Tools & Techniques Used
+- **Microsoft Excel**
+- Pivot Tables  
+- Excel Formulas  
+- Dynamic Charts (Bar, Pie, Donut)  
+- Dashboard Design  
+- Data Cleaning & Structuring  
 
-2021 was the strongest sales year, accounting for over 81% of total revenue.
+---
 
-Sales in 2022 showed a significant drop both in units and amount.
+## 🚀 How to Use
+1. Download the Excel file from the repository.
+2. Open the workbook in Microsoft Excel.
+3. Go to the **DASHBOARD** sheet to view the full analytics summary.
+4. Explore supporting sheets for deeper insights:
+   - Pivot tables  
+   - KPI breakdown  
+   - Geographic sales  
+   - Additional datasets  
 
-This suggests:
+---
 
-Possible market changes
-
-Supply chain disruptions
-
-Seasonality
-
-Changes in product demand
-
-The dashboard visualizes these shifts using bar charts, pie charts, and KPI indicators.
-
-📌 Purpose of the Dashboard
-
-The dashboard provides:
-
-Year-over-year comparisons
-
-Sales distribution across categories/geographies (if available)
-
-KPIs (Total Sales, Units Sold, Revenue Trends)
-
-Visual patterns to support decision-making
-
-🛠 Tools Used
-
-Microsoft Excel
-
-Pivot Tables
-
-Power Query 
-
-Conditional formatting
-
-Charting features
-
-Dashboard design
+## 📄 Screenshot Placeholder
+> *(Add your dashboard screenshots here once available)*  
+```md
+![Dashboard Preview](images/dashboard.png)
