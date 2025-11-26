@@ -84,6 +84,4 @@ The dashboard is built to:
 ---
 
 ## 📄 Screenshot Placeholder
-> *(Add your dashboard screenshots here once available)*  
-```md
 ![Dashboard Preview](images/dashboard.png)
