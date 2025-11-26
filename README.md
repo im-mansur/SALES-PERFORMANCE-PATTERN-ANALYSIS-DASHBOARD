@@ -84,4 +84,4 @@ The dashboard is built to:
 ---
 
 ## 📄 Screenshot Placeholder
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](https://github.com/im-mansur/SALES-PERFORMANCE-PATTERN-ANALYSIS-DASHBOARD/blob/main/DASHBOARD.PNG)
